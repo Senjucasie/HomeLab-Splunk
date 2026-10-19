@@ -1,6 +1,6 @@
 # Splunk SOC Home Lab
 
-The base of my SIEM home lab: a Windows 11 machine sends its event logs to a Splunk Enterprise server running on Ubuntu Server, all inside VMware Workstation.
+A Windows 11 machine sends its event logs to a Splunk Enterprise server running on Ubuntu Server, all inside VMware Workstation.
 
 This repository covers only the basic setup, from installing Splunk to confirming that Windows Security logs arrive and can be searched. It also documents the problems I ran into and how I fixed them.
 
