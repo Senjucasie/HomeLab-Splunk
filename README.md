@@ -1,6 +1,6 @@
 # Splunk SOC Home Lab
 
-This contains a Windows 11 machine sends its event logs to a Splunk Enterprise server running on Ubuntu Server, all inside VMware Workstation.
+This contains a Windows 11 machine which sends its event logs to a Splunk Enterprise server running on Ubuntu Server, all inside VMware Workstation.
 
 This repository covers only the basic setup, from installing Splunk to confirming that Windows Security logs arrive and can be searched. It also documents the problems I ran into and how I fixed them.
 
